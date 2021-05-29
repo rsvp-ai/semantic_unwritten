@@ -1,3 +1,13 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+This repo contains codes and pre-trained models for our paper 
+
+> [Semantics of the Unwritten: The Effect of End of Paragraph and Sequence Tokens on Text Generation with GPT2](https://arxiv.org/abs/2004.02251)
+>
+> He Bai, Peng Shi, Jimmy Lin, Luchen Tan, Kun Xiong, Wen Gao, Jie Liu, Ming Li
+>
+> ACL SRW 2021
+
 ## ChineseEassy
 
 ```bash
